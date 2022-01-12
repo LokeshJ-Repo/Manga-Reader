@@ -20,11 +20,12 @@ Torrents can be copied folder wise or in compressed format
 
 
 # Screenshot
-
-![Manga Search List](https://github.com/LokeshJ-Repo/Manga-Reader/blob/main/Images/3.Scrrenshot.png)
-![Manga latest_Chap](https://github.com/LokeshJ-Repo/Manga-Reader/blob/main/Images/4.Scrrenshot.png)
-![Manga Select_Chap](https://github.com/LokeshJ-Repo/Manga-Reader/blob/main/Images/5.Scrrenshot.png)
-![Manga Select_Page](https://github.com/LokeshJ-Repo/Manga-Reader/blob/main/Images/6.Scrrenshot.png)
+![Colab Page](https://github.com/LokeshJ-Repo/Manga-Reader/blob/main/Images/1.Screenshot.png)
+![Manga Search](https://github.com/LokeshJ-Repo/Manga-Reader/blob/main/Images/2.Screenshot.png)
+![Manga Search List](https://github.com/LokeshJ-Repo/Manga-Reader/blob/main/Images/3.Screenshot.png)
+![Manga latest_Chap](https://github.com/LokeshJ-Repo/Manga-Reader/blob/main/Images/4.Screenshot.png)
+![Manga Select_Chap](https://github.com/LokeshJ-Repo/Manga-Reader/blob/main/Images/5.Screenshot.png)
+![Manga Select_Page](https://github.com/LokeshJ-Repo/Manga-Reader/blob/main/Images/6.Screenshot.png)
 
 
 #Disclosure:
