@@ -28,7 +28,7 @@ Torrents can be copied folder wise or in compressed format
 ![Manga Select_Page](https://github.com/LokeshJ-Repo/Manga-Reader/blob/main/Images/6.Screenshot.png)
 
 
-#Disclosure:
+# Disclosure:
 # This whole repo is against Google Colab policy and you shouldn't be using it.
 This App is developped by web scrapping mangaclash.com, none of the manga is owned by me. 
 This app is only used for educational purpose.
