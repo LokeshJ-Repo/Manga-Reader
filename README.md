@@ -12,7 +12,6 @@ an interactive manga reading experiance.
 5. Select Chapter number from dropdown to view different chapter of manga.
 6. Select Page number from dropdown to view different page of manga.
 
-Torrents can be copied folder wise or in compressed format
 
 ### What is the purpose of it?
 1. Educational purpose for web scrapping method and usage of ipywidget.
