@@ -1,5 +1,3 @@
-# Manga Reader Jupyter Notebook
-
 # Manga Reader App for Jupyter Notebbok
 This application uses web scrapping methods along with ipywidgets of jupyter notebook to provide
 an interactive manga reading experiance. 
@@ -23,9 +21,12 @@ Torrents can be copied folder wise or in compressed format
 
 # Screenshot
 
-![Searching Torrent](https://github.com/lokeshj074/Torrent_Search_Download_Gdrive_LokeshJ/blob/main/Screen_shot1.jpg)
-
-![Downloading Torrent](https://github.com/lokeshj074/Torrent_Search_Download_Gdrive_LokeshJ/blob/main/Screen_shot2.jpg)
+![Colab Page](https://github.com/lokeshj074/ Manga-Reader/blob/main/Images/1.Scrrenshot.png)
+![Manga Search](https://github.com/lokeshj074/ Manga-Reader/blob/main/Images/2.Scrrenshot.png)
+![Manga Search List](https://github.com/lokeshj074/ Manga-Reader/blob/main/Images/3.Scrrenshot.png)
+![Manga latest_Chap](https://github.com/lokeshj074/ Manga-Reader/blob/main/Images/4.Scrrenshot.png)
+![Manga Select_Chap](https://github.com/lokeshj074/ Manga-Reader/blob/main/Images/5.Scrrenshot.png)
+![Manga Select_Page](https://github.com/lokeshj074/ Manga-Reader/blob/main/Images/6.Scrrenshot.png)
 
 
 #Disclosure:
